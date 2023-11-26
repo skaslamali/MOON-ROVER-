@@ -31,5 +31,5 @@
 -  change the configs of blynk account 
 -  change slave esp mac address
  - change these things in MASTER.INO
- 
-
+ - how to find MAC address of any esp board
+ - https://randomnerdtutorials.com/get-change-esp32-esp8266-mac-address-arduino/#:~:text=You%20can%20set%20a%20custom,old%20and%20new%20MAC%20Address.
