@@ -17,19 +17,19 @@
 5. wheels
 
 # TUTORIAL:
-installation - Arduino IDE, Processing 4 software
-libraries for arduino ide - esp8266WiFi.h, espnow.h, blynksimpleesp8266.h, dht11.h
-libraries for processing 4 - processing.serial.*, java.awt.event.KeyEvent, java.io.IOException
-install BLYNK application on your mobile 
+- installation - Arduino IDE, Processing 4 software
+- libraries for arduino ide - esp8266WiFi.h, espnow.h, blynksimpleesp8266.h, dht11.h
+- libraries for processing 4 - processing.serial.*, java.awt.event.KeyEvent, java.io.IOException
+- install BLYNK application on your mobile 
 # UPLOAD CODE: 
 1. upload the MASTER.INO to esp 32
 2. upload SLAVE.INO to another esp board
 3. runRADAR GRAPHICS code in processing software
 
 # CHANGES YOU HAVE TO DO: 
- change the ssid and password
- change the configs of blynk account 
- change slave esp mac address
+ - change the ssid and password
+-  change the configs of blynk account 
+-  change slave esp mac address
  - change these things in MASTER.INO
  
 
