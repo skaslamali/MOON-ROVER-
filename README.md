@@ -27,7 +27,7 @@
 # UPLOAD CODE: 
 1. upload the MASTER.INO to esp 32
 2. upload SLAVE.INO to another esp board
-3. run the RADAR GRAPHICS code in processing software
+3. run the RADAR GRAPHICS.PDE code in processing software
 
 # CHANGES YOU HAVE TO DO:
 - change the pins according to you
@@ -37,3 +37,5 @@
  - change these things in MASTER.INO
  - how to find MAC address of any esp board
  - https://randomnerdtutorials.com/get-change-esp32-esp8266-mac-address-arduino/#:~:text=You%20can%20set%20a%20custom,old%20and%20new%20MAC%20Address.
+
+# CANTACT ME FOR MORE DETAILS - AA1397284@GMAIL.COM
