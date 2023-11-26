@@ -8,7 +8,9 @@
  HC-SR04 and DHTt11 data to BLYNK application. using blynk app user can also controll wheels so
  besically this code is for a moon rover demo project.
 #  Modification DATE: 10-11-2023
-
+************************************************************************
+************************************************************************
+************************************************************************
 # REQUIREMENTS:
 1. one esp32(must) and one any esp microcontroller
 2. hc-sr04 ultrasonic sensor
@@ -21,7 +23,7 @@
 - libraries for arduino ide - esp8266WiFi.h, espnow.h, blynksimpleesp8266.h, dht11.h
 - libraries for processing 4 - processing.serial.*, java.awt.event.KeyEvent, java.io.IOException
 - install BLYNK application on your mobile
-************************************************************************
+
 # UPLOAD CODE: 
 1. upload the MASTER.INO to esp 32
 2. upload SLAVE.INO to another esp board
