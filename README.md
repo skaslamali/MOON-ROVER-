@@ -29,7 +29,8 @@
 2. upload SLAVE.INO to another esp board
 3. run the RADAR GRAPHICS code in processing software
 
-# CHANGES YOU HAVE TO DO: 
+# CHANGES YOU HAVE TO DO:
+- change the pins according to you
  - change the ssid and password
 -  change the configs of blynk account 
 -  change slave esp mac address
